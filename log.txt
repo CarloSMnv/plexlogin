@@ -1,0 +1,15 @@
+1|2023-05-23 22:47:15|asq@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 22:48:59|asq@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 22:55:39|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 23:08:48|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+1|2023-05-23 23:13:20|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+0|2023-05-23 23:13:59|asdasd@asd.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Usuario no encontrado
+0|2023-05-23 23:14:24|asdas@asdas.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Usuario no encontrado
+0|2023-05-23 23:15:45|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Contraseña inválida
+0|2023-05-23 23:16:51|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Captcha inválido
+0|2023-05-23 23:18:33|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Contraseña inválida
+1|2023-05-23 23:19:35|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+0|2023-05-23 23:19:42|asdasd@fgasd.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Captcha inválido
+1|2023-05-23 23:20:48|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Login Exitoso
+0|2023-05-23 23:21:04|carlos@gmai.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Usuario no encontrado
+0|2023-05-23 23:21:10|asda@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:112.0) Gecko/20100101 Firefox/112.0|Windows 10|Captcha inválido
